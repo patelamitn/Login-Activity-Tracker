@@ -1,8 +1,9 @@
 === Login Activity Tracker ===
-Contributors: yourname
+
+Contributors: Amit Patel
 Tags: login, security, tracker, logins, failed logins, alerts
 Requires at least: 5.0
-Tested up to: 6.5
+Tested up to: 6.8
 Stable tag: 1.2.0
 License: GPLv2 or later
 
